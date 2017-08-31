@@ -89,6 +89,8 @@
 *.sh text
 *.bat text
 
+*.strings diff=to-utf8    /* Cocoa Strings files */
+
 # templates
 *.ejs text
 *.hbt text
